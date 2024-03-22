@@ -1,4 +1,4 @@
-# Pemrogrman Web 2 - belajarjson
+# Pemrogrman mobile 2 - belajarjson
 ```
 Nim : 312210046
 Nama : Frans Putra Sinaga
